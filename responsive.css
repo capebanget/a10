@@ -1,0 +1,128 @@
+/* Tablet */
+
+@media (max-width: 1000px) {
+  .container h1 {
+    font-size: 40px;
+  }
+
+  .container p {
+    font-size: 16px;
+  }
+
+  .about {
+    width: 48%;
+  }
+
+  .cap-about h1 {
+    font-size: 25px;
+  }
+
+  .about p {
+    font-size: 15px;
+  }
+
+  .about-data .data {
+    width: 35%;
+  }
+
+  .data h3,
+  p {
+    font-size: 15px;
+  }
+  .gallery-pic {
+    width: 50%;
+  }
+
+  .gallery h3 {
+    font-size: 15px;
+  }
+
+  .cap-gallery h1 {
+    font-size: 25px;
+  }
+
+  .cap-contact {
+    font-size: 25px;
+  }
+
+  .contact-form p {
+    font-size: 15px;
+  }
+
+  .footer-text h1 {
+    font-size: 25px;
+  }
+  .footer-text h6 {
+    font-size: 12px;
+  }
+  .footer-list {
+    font-size: 13px;
+  }
+}
+
+/* HP */
+@media (max-width: 670px) {
+  .container h1 {
+    font-size: 30px;
+  }
+
+  .container p {
+    font-size: 13px;
+  }
+
+  .about {
+    width: 100%;
+  }
+
+  .cap-about h1 {
+    font-size: 15px;
+  }
+
+  .about p {
+    font-size: 12px;
+  }
+
+  .about-data .data {
+    width: 60%;
+  }
+
+  .data h3,
+  p {
+    font-size: 12px;
+  }
+
+  .gallery-pic {
+    width: 100%;
+  }
+
+  .gallery h3 {
+    font-size: 12px;
+  }
+
+  .cap-gallery h1 {
+    font-size: 15px;
+  }
+
+  .cap-contact {
+    font-size: 15px;
+  }
+
+  .contact-form p {
+    font-size: 12px;
+  }
+
+  .contact-form .contact-submit {
+    width: 10%;
+    padding: 5px;
+  }
+
+  .footer-text h1 {
+    font-size: 20px;
+  }
+  .footer-text h6 {
+    font-size: 10px;
+  }
+  .footer-list {
+    font-size: 12px;
+  }
+}
